@@ -75,4 +75,4 @@ me.say_hi()
 
 </div>
 
-<p align="center">Thanks for stopping by, smash that ⭐ if you find something useful in my repos!</p>
+<h3 align="center">Thanks for stopping by, smash that ⭐ if you find something useful in my repos!</h3>
